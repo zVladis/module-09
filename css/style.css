@@ -220,6 +220,7 @@ a {
   margin-right: auto;
   width: 50%;
   position: relative;
+  width: 121px;
 }
 
 .tv-icon-wrapper::after {
@@ -244,6 +245,7 @@ a {
   margin-right: auto;
   width: 50%;
   position: relative;
+  width: 121px;
 }
 
 .flask-icon-wrapper::after {
@@ -268,6 +270,7 @@ a {
   margin-right: auto;
   width: 50%;
   position: relative;
+  width: 121px;
 }
 
 .cofee-icon-wrapper::after {
@@ -292,6 +295,7 @@ a {
   margin-right: auto;
   width: 50%;
   position: relative;
+  width: 121px;
 }
 
 .telega-icon-wrapper::after {
@@ -352,6 +356,8 @@ a {
     font-size: 52px;
     font-weight: 700;
     text-transform: uppercase;
+    text-align: center;
+
   }
 
   .header-description {
@@ -388,6 +394,9 @@ a {
     background-color: rgba(0, 0, 0, 1);
     background-position: -340px 0;
   }
+
+
+}
 }
 
 /* _____________________________________________________________________________ */
