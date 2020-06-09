@@ -50,7 +50,7 @@ a {
 .header {
     padding-top: 34px;
     padding-bottom: 56px;
-    background-image: url("/img/mobile-background.png");
+    background-image: url("../img/mobile-background.png");
     width: 100%;
     height: 540px;
     background-size: cover;
@@ -226,7 +226,7 @@ a {
 .tv-icon-wrapper::after {
     content: "";
     display: block;
-    background-image: url("/img/icons/tv-icon.png");
+    background-image: url("../img/icons/tv-icon.png");
     background-repeat: no-repeat;
     width: 44px;
     height: 44px;
@@ -251,7 +251,7 @@ a {
 .flask-icon-wrapper::after {
     content: "";
     display: block;
-    background-image: url("/img/icons/coffe-icon.png");
+    background-image: url("../img/icons/coffe-icon.png");
     background-repeat: no-repeat;
     width: 44px;
     height: 44px;
@@ -276,7 +276,7 @@ a {
 .cofee-icon-wrapper::after {
     content: "";
     display: block;
-    background-image: url("/img/icons/flask-icon.png");
+    background-image: url("../img/icons/flask-icon.png");
     background-repeat: no-repeat;
     width: 44px;
     height: 44px;
@@ -301,7 +301,7 @@ a {
 .telega-icon-wrapper::after {
     content: "";
     display: block;
-    background-image: url("/img/icons/telega-icon.png");
+    background-image: url("../img/icons/telega-icon.png");
     background-repeat: no-repeat;
     width: 44px;
     height: 44px;
@@ -323,7 +323,7 @@ a {
     .header {
         padding-top: 34px;
         padding-bottom: 56px;
-        background-image: url("/img/mobile-background.png");
+        background-image: url("../img/mobile-background.png");
         width: 100%;
         height: 540px;
         background-size: cover;
@@ -386,7 +386,7 @@ a {
 
 @media (max-width: 991px) {
     .header {
-        background-image: url("/img/tablet-background.png");
+        background-image: url("../img/tablet-background.png");
         width: 100%;
         height: 700px;
         background-size: cover;
@@ -402,7 +402,7 @@ a {
 /* _____________________________________________________________________________ */
 @media (min-width: 992px) {
     .header {
-        background-image: url("/img/desktop-background.png");
+        background-image: url("../img/desktop-background.png");
         width: 100%;
         height: 700px;
         background-size: cover;
